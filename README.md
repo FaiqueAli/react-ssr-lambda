@@ -1,5 +1,5 @@
 
-This repo is copied from  https://github.com/aws-samples/react-ssr-lambda 
+
 
 # Sample to deploy React SSR on Lambda
 
@@ -67,3 +67,4 @@ This solution can only be provisioned in the us-east-1 Region as it deploys Lamb
     
     `cdk destroy SSRAppStack`
     
+NOTE: This repo is copied from  https://github.com/aws-samples/react-ssr-lambda 
