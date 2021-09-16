@@ -1,3 +1,6 @@
+
+This repo is copied from  https://github.com/aws-samples/react-ssr-lambda 
+
 # Sample to deploy React SSR on Lambda
 
 This repository consists of a sample to demonstrate two variants to do Server Side Rendering with AWS Lambda for React applications.
@@ -63,3 +66,4 @@ This solution can only be provisioned in the us-east-1 Region as it deploys Lamb
     `cdk destroy SSRApiStack`
     
     `cdk destroy SSRAppStack`
+    
